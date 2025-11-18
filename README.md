@@ -2,6 +2,7 @@ Agribazaar – E-commerce Platform for Agricultural Products
 
 Agribazaar is a digital marketplace that connects farmers directly to consumers, enabling transparent, traceable, and efficient buying and selling of agricultural products.
 This platform aims to empower farmers, reduce middlemen dependency, and support sustainable food distribution.
+
 🚀 Features
 
 🛒 Product listing and categorization
@@ -21,6 +22,7 @@ This platform aims to empower farmers, reduce middlemen dependency, and support 
 🔐 Secure database integration
 
 📱 Responsive and mobile-friendly design
+
 🧰 Tech Stack
 
 Frontend: HTML, CSS, JavaScript
